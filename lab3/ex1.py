@@ -1,3 +1,4 @@
+#两种排序方法
 #冒泡排序
 print("冒泡排序：")
 a=list(map(int,input("请输入数字，空格间隔: ").split()))
